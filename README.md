@@ -12,6 +12,8 @@ Mentor:Santhosh kumar
 
 Overview of the  Project:
 
+Project: Predictive modeling using Linear Regression
+
 This project focuses on predictive modeling using Linear Regression, a popular and fundamental machine learning technique used to model the relationship between a dependent (target) variable and one or more independent variables.
 
 Objective:
